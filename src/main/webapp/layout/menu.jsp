@@ -16,10 +16,11 @@
 				</div>
 			</form>
 		</li>
-		<li><a href="view_content.tiles" style="border-top: 1px rgba(0, 0, 0, .3) solid;"><i
-				class="fa fa-table"></i> View Contents</a></li>
+		<li><a href="view_content.tiles" id="need"><i class="fa fa-table""></i> View
+				Contents</a></li>
 		<li><a href="form_content.tiles"><i class="fa fa-pencil-square-o"></i> Form
 				Content</a></li>
 	</ul>
 </div>
 <!-- /.navbar-collapse -->
+
