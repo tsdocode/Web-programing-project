@@ -29,6 +29,7 @@
   - Sau khi đăng nhập thành công, chỉ mới forward đến trang home-page(đây là trang loading) mà chưa có các trường hợp khác
   - Khi đăng ký hoàn tất sẽ tự động chuyển về login
 - Hoàn tất views, validate bằng JQuery
+- Edit profile, load data từ MySQL, Reset Button bằng Jquery
 
 ## Một số vấn đề liên quan
 - Toàn bộ các href, path đều được gán chết(nghĩa là gán để chạy), chưa được tự động
