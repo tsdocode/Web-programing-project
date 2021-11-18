@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+E:\3rd_Year\Web\Excercise\Web-programing-project-view\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3651133330.index
+1756105173.index
+3765873735.index
+2387313267.index
+3502721960.index
+1348823646.index
